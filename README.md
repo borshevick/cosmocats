@@ -1,7 +1,7 @@
 # Космический Шутер на PyGame
 
-![Пример игры](pictures/gamepla_screenshot.png) 
-![Пример игры](pictures/menu_screenshot.png) *скриншоты*
+![error](pictures/gamepla_screenshot.png) 
+![error](pictures/menu_screenshot.png) *скриншоты*
 
 ## Описание
 Простой 2D-шутер с космическим кораблём, метеоритами и лазерами. Игрок управляет кораблём, уворачивается от метеоритов и стреляет по ним.
